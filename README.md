@@ -9,5 +9,10 @@ Link to the book: https://doc.rust-lang.org/stable/book/
 
 1. Getting started
 
-    - [Hello world program](getting-started/hello-world/)
+    - [Hello world (first program)](getting-started/hello-world/)
+    - [Hello cargo](getting-started/hello-cargo/)
+
+## Additional materials
+
+The Cargo book: https://doc.rust-lang.org/cargo/
 
