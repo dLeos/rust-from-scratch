@@ -12,9 +12,14 @@ Link to the book: https://doc.rust-lang.org/stable/book/
 
 2. Guessing game
 
+    - [Guessing game](02-guessing-game/guessing-game/)
+
 ## Additional materials
 
 The Cargo book: https://doc.rust-lang.org/cargo/
 
 "Rust from Scratch" course: https://www.educative.io/courses/learn-rust-from-scratch
+
+Standart library (*prelude*) documentation: https://doc.rust-lang.org/stable/std/prelude/index.html
+
 
