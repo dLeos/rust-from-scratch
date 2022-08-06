@@ -1,7 +1,5 @@
 # Learning Rust from scratch
 
-Link to the course: https://www.educative.io/courses/learn-rust-from-scratch
-
 Link to the book: https://doc.rust-lang.org/stable/book/
 
 
@@ -9,10 +7,14 @@ Link to the book: https://doc.rust-lang.org/stable/book/
 
 1. Getting started
 
-    - [Hello world (first program)](getting-started/hello-world/)
-    - [Hello cargo](getting-started/hello-cargo/)
+    - [Hello world (first program)](01-getting-started/hello-world/)
+    - [Hello cargo](01-getting-started/hello-cargo/)
+
+2. Guessing game
 
 ## Additional materials
 
 The Cargo book: https://doc.rust-lang.org/cargo/
+
+"Rust from Scratch" course: https://www.educative.io/courses/learn-rust-from-scratch
 
