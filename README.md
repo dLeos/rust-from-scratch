@@ -14,6 +14,10 @@ Link to the book: https://doc.rust-lang.org/stable/book/
 
     - [Guessing game](02-guessing-game/guessing-game/)
 
+3. Common programming concepts
+
+    - [Variables](03-common-programming-concepts/variables/)
+
 ## Additional materials
 
 The Cargo book: https://doc.rust-lang.org/cargo/
