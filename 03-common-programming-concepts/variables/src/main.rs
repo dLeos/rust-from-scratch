@@ -47,4 +47,10 @@ fn main() {
     }
 
     println!("The value of x is: {x}");
+
+
+    // Example with muliple deffinition
+
+    let (hello, world) = ("Hello", "world");
+    println!("{hello} {world}");
 }
