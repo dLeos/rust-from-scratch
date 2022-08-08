@@ -1,7 +1,5 @@
 # Variables and Mutability
 
-CLI application. Use `cargo run` to run it.
-
 In this lesson I learned:
 
  - by default Rust variables are immutable, the keyword `mut` is used to make it mutable;

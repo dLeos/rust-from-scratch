@@ -17,6 +17,7 @@ Link to the book: https://doc.rust-lang.org/stable/book/
 3. Common programming concepts
 
     - [Variables](03-common-programming-concepts/variables/)
+    - [Data types](03-common-programming-concepts/data-types/)
 
 ## Additional materials
 
