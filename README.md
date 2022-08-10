@@ -18,6 +18,7 @@ Link to the book: https://doc.rust-lang.org/stable/book/
 
     - [Variables](03-common-programming-concepts/variables/)
     - [Data types](03-common-programming-concepts/data-types/)
+    - [Functions](03-common-programming-concepts/functions/)
 
 ## Additional materials
 
