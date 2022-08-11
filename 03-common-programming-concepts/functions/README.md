@@ -9,4 +9,8 @@ In this lesson I learned:
  - variable defenition is an expression;
  - expressions do not include ending semicolons;
  - the return value of the function is the final expression. You can return early by using keyword `return`;
+ - by default arguments pass to the function by the value;
+ - if array is passed to a function by value then copy of the array is made;
+ - one can use `&mut` to pass arguments by the reference;
+ - Rust allows you to return multiple values using a tuple.
 
