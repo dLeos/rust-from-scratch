@@ -7,19 +7,23 @@ Link to the book: https://doc.rust-lang.org/stable/book/
 
 1. Getting started
 
-    - [Hello world (first program)](01-getting-started/hello-world/)
-    - [Hello cargo](01-getting-started/hello-cargo/)
+    - [Hello world (first program)](./01-getting-started/hello-world/)
+    - [Hello cargo](./01-getting-started/hello-cargo/)
 
 2. Guessing game
 
-    - [Guessing game](02-guessing-game/guessing-game/)
+    - [Guessing game](./02-guessing-game/guessing-game/)
 
 3. Common programming concepts
 
-    - [Variables](03-common-programming-concepts/variables/)
-    - [Data types](03-common-programming-concepts/data-types/)
-    - [Functions](03-common-programming-concepts/functions/)
-    - [Control flow](03-common-programming-concepts/control-flow/)
+    - [Variables](./03-common-programming-concepts/variables/)
+    - [Data types](./03-common-programming-concepts/data-types/)
+    - [Functions](./03-common-programming-concepts/functions/)
+    - [Control flow](./03-common-programming-concepts/control-flow/)
+
+4. Understanding ownership
+
+    - [What is ownership?](./04-understanding-ownership/what-is-ownership/)
 
 ## Additional materials
 
