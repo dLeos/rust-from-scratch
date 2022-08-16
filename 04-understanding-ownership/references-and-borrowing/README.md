@@ -13,8 +13,11 @@ In this lesson I learned:
  - thus:
     - multiple immutable references: OK;
     - one mutable reference: OK;
-    - mutable + immutable references: ERROR;
-    - multiple mutable references: ERROR;
+    - mutable + immutable references: is not possible;
+    - multiple mutable references: is not possible;
  - a *reference’s scope* starts from where it is introduced and continues through *the last time that reference is used*. The ability of the compiler to tell that a reference is no longer being used at a point before the end of the scope is called *Non-Lexical Lifetimes* (NLL);
- - ...
+ - in Rust, the compiler guarantees that references will never be *dangling references*: if you have a reference to some data, the compiler will ensure that the data will not go out of scope before the reference to the data does;
+ - thus:
+    - at any given time, it is possible to have either one mutable reference or any number of immutable references;
+    - references must always be valid.
 
