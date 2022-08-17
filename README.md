@@ -25,6 +25,7 @@ Link to the book: https://doc.rust-lang.org/stable/book/
 
     - [What is ownership?](./04-understanding-ownership/what-is-ownership/)
     - [References and Borrowing](./04-understanding-ownership/references-and-borrowing/)
+    - [The slice type](./04-understanding-ownership/the-slice-type/)
 
 ## Additional materials
 
