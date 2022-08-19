@@ -27,6 +27,10 @@ Link to the book: https://doc.rust-lang.org/stable/book/
     - [References and Borrowing](./04-understanding-ownership/references-and-borrowing/)
     - [The slice type](./04-understanding-ownership/the-slice-type/)
 
+5. Structs
+
+    - [Defining and instantiating structs](./05-structs/defining-and-instantiating-structs/)
+
 ## Additional materials
 
 The Cargo book: https://doc.rust-lang.org/cargo/
