@@ -14,6 +14,14 @@ struct AnotherUser {
 }
 
 
+// Tuple struct examples
+struct Color(i32, i32, i32);
+struct Point(i32, i32, i32);
+
+// Unit-like struct example
+struct AlwaysEqual;
+
+
 fn build_user(email: String, username: String) -> User {
     User {
         email,
@@ -63,4 +71,13 @@ fn main() {
     // let another_user = AnotherUser {
     //     ..user3
     // };
+
+
+    // Tuple struct examples
+    let black = Color(0, 0, 0);
+    let origin = Point(0, 0, 0);
+
+    println!("Color: {} {} {}", black.0, black.1, black.2);
+    println!("Type of black: {}", std::any::type_name::<Color>());
+    println!("Type of origin: {}", std::any::type_name::<Point>());
 }
