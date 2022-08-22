@@ -30,6 +30,7 @@ Link to the book: https://doc.rust-lang.org/stable/book/
 5. Structs
 
     - [Defining and instantiating structs](./05-structs/defining-and-instantiating-structs/)
+    - [An example program using structs](./05-structs/structs-example/)
 
 ## Additional materials
 
