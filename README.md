@@ -33,6 +33,10 @@ Link to the book: https://doc.rust-lang.org/stable/book/
     - [An example program using structs](./05-structs/structs-example/)
     - [Method syntax](./05-structs/method-syntax/)
 
+6. Enums and pattern matching
+
+    - [Defining an Enum](./06-enums-and-pattern-matching/enums/)
+
 ## Additional materials
 
 The Cargo book: https://doc.rust-lang.org/cargo/
