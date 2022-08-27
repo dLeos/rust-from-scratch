@@ -39,6 +39,11 @@ Link to the book: https://doc.rust-lang.org/stable/book/
     - [The *match* control flow construct](./06-enums-and-pattern-matching/match-control-flow/)
     - [Concise control flow with *if let*](./06-enums-and-pattern-matching/if-let/)
 
+7. Managing growing projects with Packages, Crates and Modules
+
+    - [Packages and Crates](./07-managing-project/packages-and-crates/)
+
+
 ## Additional materials
 
 The Cargo book: https://doc.rust-lang.org/cargo/
