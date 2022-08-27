@@ -36,7 +36,8 @@ Link to the book: https://doc.rust-lang.org/stable/book/
 6. Enums and pattern matching
 
     - [Defining an Enum](./06-enums-and-pattern-matching/enums/)
-    - [The match control flow construct](./06-enums-and-pattern-matching/match-control-flow/)
+    - [The *match* control flow construct](./06-enums-and-pattern-matching/match-control-flow/)
+    - [Concise control flow with *if let*](./06-enums-and-pattern-matching/if-let/)
 
 ## Additional materials
 
