@@ -42,6 +42,7 @@ Link to the book: https://doc.rust-lang.org/stable/book/
 7. Managing growing projects with Packages, Crates and Modules
 
     - [Packages and Crates](./07-managing-project/packages-and-crates/)
+    - [Defining modules to control scope and privacy](./07-managing-project/defining-modules/)
 
 
 ## Additional materials
