@@ -43,6 +43,7 @@ Link to the book: https://doc.rust-lang.org/stable/book/
 
     - [Packages and Crates](./07-managing-project/packages-and-crates/)
     - [Defining modules to control scope and privacy](./07-managing-project/defining-modules/)
+    - [Paths for referring to an item in the module tree](./07-managing-project/module-tree/)
 
 
 ## Additional materials
@@ -53,4 +54,5 @@ The Cargo book: https://doc.rust-lang.org/cargo/
 
 Standart library (*prelude*) documentation: https://doc.rust-lang.org/stable/std/prelude/index.html
 
+The Rust API Guidelines (a set of recommendations on how to design and present APIs for the Rust programming language): https://rust-lang.github.io/api-guidelines/
 
