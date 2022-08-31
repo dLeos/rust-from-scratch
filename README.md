@@ -45,6 +45,7 @@ Link to the book: https://doc.rust-lang.org/stable/book/
     - [Defining modules to control scope and privacy](./07-managing-project/defining-modules/)
     - [Paths for referring to an item in the module tree](./07-managing-project/module-tree/)
     - [Bringing Paths into Scope with the use Keyword](./07-managing-project/use-keyword/)
+    - [Separating Modules into Different Files](./07-managing-project/separating-modules-into-different-files/)
 
 
 ## Additional materials

@@ -1,7 +1,5 @@
 # Bringing Paths into Scope with the use Keyword
 
-See project [../restaurant](../restaurant) for examples.
-
 The `use` keyword creates a shortcut to a path, and then the shorter name can be used everywhere else in the scope. Adding use and a path in a scope is similar to creating a symbolic link in the filesystem.
 
 The `as` keyword after the path in use statement, used to specify a new local name, or *alias*, for the type;
