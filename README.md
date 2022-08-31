@@ -44,6 +44,7 @@ Link to the book: https://doc.rust-lang.org/stable/book/
     - [Packages and Crates](./07-managing-project/packages-and-crates/)
     - [Defining modules to control scope and privacy](./07-managing-project/defining-modules/)
     - [Paths for referring to an item in the module tree](./07-managing-project/module-tree/)
+    - [Bringing Paths into Scope with the use Keyword](./07-managing-project/use-keyword/)
 
 
 ## Additional materials
