@@ -47,6 +47,10 @@ Link to the book: https://doc.rust-lang.org/stable/book/
     - [Bringing Paths into Scope with the use Keyword](./07-managing-project/use-keyword/)
     - [Separating Modules into Different Files](./07-managing-project/separating-modules-into-different-files/)
 
+8. Common collections
+
+    - [Storing Lists of Values with Vectors](./08-common-collections/vectors/)
+
 
 ## Additional materials
 
